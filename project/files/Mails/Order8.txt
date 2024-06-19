@@ -1,0 +1,3 @@
+Id: 8, Date: 01/02/2024 20:21:14
+pizza's Id: 2, pizza's Name: Veggie, Quantity: 1, Price: 45
+string Thenk you‼️ payment get successfull: 45₪

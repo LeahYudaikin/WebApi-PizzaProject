@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../client.css">
+    <title>Order</title>
+</head>
+<body>
+
+    <div style="text-align: left;">
+    <a href="../index.html">🔏login</a>
+    <a href="../html/home.html">🍕Pizzas</a>
+    <a href="../html/home.html">👨‍💼Workers</a>
+    <a href="../html/order.html">📄Orders</a>
+    </div>
+
+    <h1>Pizza🍕Project</h1>
+
+    <div id="buttons">
+    <div id="orderButtons">
+    <h2>📃Orders</h2>
+    <button class="button" onclick="getAll()">Get</button>
+    <button class="button" onclick="getById()">GetById</button>
+    <button class="button" onclick="post()">Add Order</button> 
+    <button class="button" onclick="deleteOrder()">Delete</button> 
+    </div>
+    </div>
+    
+    <div id="Get">
+        <p></p>
+        <h2>Orders:</h2>
+        <table id="tb">
+            <tbody id="order_tbody"></tbody>
+        </table>
+        <p></p>
+    </div>
+    
+    <div id="s">
+    <div id="GetById">
+        <p></p>
+        <h2>Get order By Id:</h2>
+        <input type="number" placeholder="get by id" id="idForGet" required>
+        <button type="submit" id="sendGetById" onclick="sendGetById()">sendGetById</button>
+        <table>
+            <tbody id="write"></tbody>
+        </table>
+        <p></p>
+    </div>
+    
+    <div id="AddOrder">
+        <p></p>
+        <h2>Add order:</h2>
+        <div id="details">
+            <input type="text" placeholder="name" id="name">
+            <input type="email" placeholder="mail" id="mail">
+            <br>
+            <button type="button" id="addItem" onclick="addItem()">add Item</button>
+            <br>
+            <button type="button" id="pay" onclick="payment()">payment detial</button>
+        </div>
+        <br>
+        <div id="addItem_pizza">
+            <input type="text" placeholder="idPizza" id="idPizza">
+            <input type="number" placeholder="amount" id="amount">
+            <button type="button" id="saveItem" onclick="saveItem()">save Item</button>
+        </div>
+        <br>
+        <div id="payment">
+            <input type="text" placeholder="Number" id="Number" required minlength="16" maxlength="16">
+            <input type="text" placeholder="Validity" id="Validity" >
+            <input type="text" placeholder="cvc" id="cvc" minlength="3" maxlength="3">
+            <br>
+            <button type="submit" id="send" onclick="sendPost()">Send</button>
+        </div>
+        <p></p>
+    </div>
+
+    <div id="Delete">
+        <p></p>
+        <h2>Delete Order:</h2>
+        <input type="number" id="idDelete" placeholder="idDelete" required>
+        <button type="submit" id="delete" onclick="deleteGetById()">Delete</button>
+        <p></p> 
+    </div>
+    </div>
+</body>
+<script src="./js/login.js"></script>
+<script src="../js/order.js"></script>
+</html>

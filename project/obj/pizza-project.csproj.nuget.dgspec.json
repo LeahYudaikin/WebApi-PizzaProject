@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\project\\pizza-project.csproj": {}
+  },
+  "projects": {
+    "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\ClassInterfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\ClassInterfaces.csproj",
+        "projectName": "ClassInterfaces",
+        "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\ClassInterfaces.csproj",
+        "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
+        "outputPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj",
+        "projectName": "ClassModels",
+        "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj",
+        "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
+        "outputPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassServices\\ClassServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassServices\\ClassServices.csproj",
+        "projectName": "ClassServices",
+        "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassServices\\ClassServices.csproj",
+        "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
+        "outputPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\ClassInterfaces.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\ClassInterfaces.csproj"
+              },
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj"
+              },
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\FileService.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\FileService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\FileService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\FileService.csproj",
+        "projectName": "FileService",
+        "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\FileService.csproj",
+        "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
+        "outputPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\project\\pizza-project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\project\\pizza-project.csproj",
+        "projectName": "pizza-project",
+        "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\project\\pizza-project.csproj",
+        "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
+        "outputPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\ClassInterfaces.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassInterfaces\\ClassInterfaces.csproj"
+              },
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassModels\\ClassModels.csproj"
+              },
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassServices\\ClassServices.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\ClassServices\\ClassServices.csproj"
+              },
+              "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\FileService.csproj": {
+                "projectPath": "D:\\'שנה-ב\\WebApi\\MyProject\\‏‏pizza-project\\FileService\\FileService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

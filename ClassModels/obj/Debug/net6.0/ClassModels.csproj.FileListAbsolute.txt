@@ -1,0 +1,84 @@
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+H:\WebApi\MyProject\pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+H:\WebApi\MyProject\pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\bin\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+E:\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+E:\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.dll
+E:\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.dll
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+E:\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.deps.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.AssemblyReference.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfoInputs.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.AssemblyInfo.cs
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.csproj.CoreCompileInputs.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\refint\ClassModels.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ClassModels.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassModels\obj\Debug\net6.0\ref\ClassModels.dll

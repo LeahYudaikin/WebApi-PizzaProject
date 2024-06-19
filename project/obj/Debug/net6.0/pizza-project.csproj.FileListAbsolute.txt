@@ -1,0 +1,458 @@
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\project\pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\project\pizza-project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\project\‏‏‏‏pizza-project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\MyProject\-----‏‏‏‏pizza-project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson2\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project - lesson3\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\FileService.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\FileService.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\files\myFile.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.staticwebassets.runtime.json
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\appsettings.Development.json
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\appsettings.json
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\files\myFile.json
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.staticwebassets.runtime.json
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.exe
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.deps.json
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\pizza-project.pdb
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassInterfaces.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassServices.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\FileService.dll
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassInterfaces.pdb
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\ClassServices.pdb
+H:\WebApi\MyProject\pizza-project\project\bin\Debug\net6.0\FileService.pdb
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\staticwebassets.build.json
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\staticwebassets.development.json
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.dll
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\refint\pizza-project.dll
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.pdb
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+H:\WebApi\MyProject\pizza-project\project\obj\Debug\net6.0\ref\pizza-project.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\appsettings.Development.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\appsettings.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\files\myFile.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.staticwebassets.runtime.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.exe
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.deps.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassInterfaces.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassServices.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\FileService.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassInterfaces.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassServices.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\FileService.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\staticwebassets.build.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\staticwebassets.development.json
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\refint\pizza-project.dll
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+H:\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\files\myFile.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.staticwebassets.runtime.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\FileService.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\bin\Debug\net6.0\FileService.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\appsettings.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.staticwebassets.runtime.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\FileService.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\FileService.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\files\workerFile.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\files\pizzaFile.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\files\orderFile.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\appsettings.Development.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\appsettings.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\files\orderFile.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\files\pizzaFile.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\files\workerFile.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.staticwebassets.runtime.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.exe
+E:\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.deps.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+E:\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.pdb
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\ClassInterfaces.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\ClassModels.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\ClassServices.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\FileService.dll
+E:\‏‏pizza-project\project\bin\Debug\net6.0\ClassModels.pdb
+E:\‏‏pizza-project\project\bin\Debug\net6.0\ClassInterfaces.pdb
+E:\‏‏pizza-project\project\bin\Debug\net6.0\ClassServices.pdb
+E:\‏‏pizza-project\project\bin\Debug\net6.0\FileService.pdb
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+E:\‏‏pizza-project\project\obj\Debug\net6.0\staticwebassets.build.json
+E:\‏‏pizza-project\project\obj\Debug\net6.0\staticwebassets.development.json
+E:\‏‏pizza-project\project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.dll
+E:\‏‏pizza-project\project\obj\Debug\net6.0\refint\pizza-project.dll
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.pdb
+E:\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+E:\‏‏pizza-project\project\obj\Debug\net6.0\ref\pizza-project.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\appsettings.Development.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\appsettings.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\files\pizzaFile.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\files\workerFile.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\files\orderFile.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.staticwebassets.runtime.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.exe
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.deps.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.runtimeconfig.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\pizza-project.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\FileService.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\bin\Debug\net6.0\FileService.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.AssemblyReference.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfoInputs.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.AssemblyInfo.cs
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CoreCompileInputs.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\scopedcss\bundle\pizza-project.styles.css
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.csproj.CopyComplete
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\refint\pizza-project.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\pizza-project.genruntimeconfig.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\project\obj\Debug\net6.0\ref\pizza-project.dll

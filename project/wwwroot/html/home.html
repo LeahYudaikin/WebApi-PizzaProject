@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza🍕</title>
+</head>
+<link rel="stylesheet" href="../client.css">
+<body>
+
+    <div style="text-align: left;">
+    <a href="../index.html">🔏login</a>
+    <a href="../html/home.html">🍕Pizzas</a>
+    <a href="../html/home.html">👨‍💼Workers</a>
+    <a href="../html/order.html">📄Orders</a>
+    </div>
+
+    <h1>Pizza🍕Project</h1>
+
+    <div id="buttons">
+    <div id="OrderButtons">
+    <h2>📄Orders</h2>
+    <a href="./order.html"><button class="button">To Orders</button></a>
+    </div>
+    <div id="WorkerButtons">
+    <h2>👨‍💼Workers</h2>
+    <button class="button" onclick="getAllWorker()">Get</button>
+    <button class="button" onclick="getByIdWorker()">GetById</button>
+    <button class="button" onclick="postWorker()">Add Worker</button> 
+    <button class="button" onclick="deleteWorker()">Delete</button> 
+    </div>
+    <div id="PizzaButtons">
+    <h2>🍕Pizzas</h2>
+    <button class="button" onclick="getAll()">Get</button>
+    <button class="button" onclick="getById()">GetById</button>
+    <button class="button" onclick="post()">Add Pizza</button> 
+    <button class="button" onclick="putPizza()">Change Pizza</button>
+    <button class="button" onclick="deletePizza()">Delete</button> 
+    </div>
+    </div>
+    
+    
+    <div id="Get">
+        <p></p>
+        <h2>Pizzas:</h2>
+        <table id="tb">
+            <tbody id="pizza_tbody"></tbody>
+        </table>
+        <p></p>
+    </div>
+    
+    <div id="s">
+    <div id="GetById">
+        <p></p>
+        <h2>Get Pizza By Id:</h2>
+        <input type="number" placeholder="get by id" id="idForGet">
+        <button type="submit" id="sendGetById" onclick="sendGetById()">sendGetById</button>
+        <table>
+            <tbody id="write"></tbody>
+        </table>
+        <p></p>
+    </div>
+    
+    <div id="AddPizza">
+        <p></p>
+        <h2>Add Pizza:</h2>
+        <div id="details">
+            <input type="text" placeholder="namePizza" id="name" minlength="2">
+            <input type="number" placeholder="price" id="price" required>
+            Gluten?<input type="checkbox" id="gluten">
+        </div>
+        <button type="submit" id="send" onclick="sendPost()">Send</button>
+        <p></p>
+    </div>
+    
+    <div id="ChangePizza">
+        <p></p>
+        <h2>Change Pizza:</h2>
+        <div id="details">
+            <input type="number" placeholder="id" id="idChange" required>
+            <input type="text" placeholder="name" id="nameChange" minlength="2">
+            <input type="number" placeholder="price" id="priceChange" required>
+            Gluten?<input type="checkbox" id="glutenChange">
+        </div>
+        <button type="submit" id="sendChange" onclick="sendPut()">SendPut</button>
+        <p></p>
+    </div>
+    
+    <div id="Delete">
+        <p></p>
+        <h2>Delete Pizza:</h2>
+        <input type="number" id="idDelete" placeholder="idDelete" required>
+        <button type="submit" id="delete" onclick="deleteGetById()">Delete</button>
+        <p></p> 
+    </div>
+    </div>
+
+
+    <div id="GetW">
+        <p></p>
+        <h2>Workers:</h2>
+        <table id="tbW">
+            <tbody id="worker_tbody"></tbody>
+        </table>
+        <p></p>
+    </div>
+     
+    <div id="s">
+    <div id="GetByIdW">
+        <p></p>
+        <h2>Get Worker By Id:</h2>
+        <input type="number" placeholder="get by id" id="idForGetW" required>
+        <button type="submit" id="sendGetByIdW" onclick="sendGetWorker()">sendGetById</button>
+        <table>
+            <tbody id="writeW"></tbody>
+        </table>
+        <p></p>
+    </div>
+
+    <div id="AddWorker">
+        <p></p>
+        <h2>Add Worker:</h2>
+        <div id="detailsW">
+            <input type="text" placeholder="name" id="NameW" minlength="2">
+            <input type="text" placeholder="role" id="role" required>
+            <input type="password" placeholder="password" id="password" required>
+        </div>
+        <button type="submit" id="sendW" onclick="sendWorker()">Send</button>
+        <p></p>
+    </div>
+
+    <div id="DeleteWorker">
+        <p></p>
+        <h2>Delete Worker:</h2>
+        <input type="number" id="idDeleteW" placeholder="idDelete" required>
+        <button type="submit" id="deleteW" onclick="deleteGetByIdWorker()">Delete</button>
+        <p></p> 
+    </div>
+    </div>
+</body>
+<script src="./js/login.js"></script>
+<script src="../js/client.js"></script>
+</html>

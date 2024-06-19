@@ -1,0 +1,133 @@
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\FileService.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\FileService.pdb
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.dll
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.dll
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\FileService.dll
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.pdb
+H:\WebApi\MyProject\pizza-project\ClassServices\bin\Debug\net6.0\FileService.pdb
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.dll
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+H:\WebApi\MyProject\pizza-project\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassServices.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassInterfaces.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassModels.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\FileService.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassInterfaces.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\FileService.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+H:\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\FileService.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\bin\Debug\net6.0\FileService.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\pizza-project - lesson4\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\FileService.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\FileService.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+D:\'שנה ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.dll
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.dll
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.dll
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\FileService.dll
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.pdb
+E:\‏‏pizza-project\ClassServices\bin\Debug\net6.0\FileService.pdb
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.dll
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+E:\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.deps.json
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassServices.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\FileService.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassModels.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\ClassInterfaces.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\bin\Debug\net6.0\FileService.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.AssemblyReference.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfoInputs.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.AssemblyInfo.cs
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CoreCompileInputs.cache
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.csproj.CopyComplete
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\refint\ClassServices.dll
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ClassServices.pdb
+D:\'שנה-ב\WebApi\MyProject\‏‏pizza-project\ClassServices\obj\Debug\net6.0\ref\ClassServices.dll
