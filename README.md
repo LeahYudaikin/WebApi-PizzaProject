@@ -63,11 +63,11 @@ The project is structured into different components:
 ### Home Page:
 ![image](https://github.com/LeahYudaikin/WebApi-PizzaProject/assets/151682731/651e4955-eca8-4478-9524-cbd53424bd3e)
 
-### Orders Page:
-![image](https://github.com/LeahYudaikin/WebApi-PizzaProject/assets/151682731/3013d4f1-f1d9-4d39-b247-4a02ea3a1a0f)
-
 ### Examples:
 ![image](https://github.com/LeahYudaikin/WebApi-PizzaProject/assets/151682731/9d081a1a-1b5b-42ed-b779-d1165e76f3d7)
+
+### Orders Page:
+![image](https://github.com/LeahYudaikin/WebApi-PizzaProject/assets/151682731/3013d4f1-f1d9-4d39-b247-4a02ea3a1a0f)
 
 
 ## Thank You
